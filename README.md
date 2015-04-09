@@ -6,4 +6,4 @@ $ mkdir 0644 /var/www/+
 
 You'll need to edit the $gUrl variable to your own Google+ profile url.
 
-See http://www.neilcremins.me/blog/2011/09/20/creating-your-own-custom-google-plus-link/ for more details
+See http://www.neilcremins.com/blog/2011/09/creating-your-own-custom-google-plus-link/ for more details
